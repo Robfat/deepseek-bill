@@ -1,0 +1,6 @@
+.DS_Store
+.modulecache/
+DeepSeekBill
+DeepSeekBill.app/
+*.dmg
+*.zip
